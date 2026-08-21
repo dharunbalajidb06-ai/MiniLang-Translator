@@ -1,0 +1,5 @@
+com\minilang\ParserTest.class
+com\minilang\IRAndOptimizerTest.class
+com\minilang\CodeGeneratorTest.class
+com\minilang\LexerTest.class
+com\minilang\SemanticAnalyzerTest.class
